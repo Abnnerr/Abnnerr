@@ -5,7 +5,7 @@
 </p><br><br>
 
 
-##🎓 Conhecimento adquirido nesses anos:
+## 🎓 Conhecimento adquirido nesses anos:
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
