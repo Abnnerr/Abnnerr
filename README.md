@@ -8,16 +8,13 @@
 ## 🎓 Conhecimento adquirido nesses anos:
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,tailwind)](https://skillicons.dev)<br><br>
 ## Contatos
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)<br><br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seu@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p>
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="LinkedIn" />
   </a>
 </p>
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnnerr&show_icons=true&theme=tokyonight"/>
