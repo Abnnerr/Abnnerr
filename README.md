@@ -7,6 +7,8 @@
 
 ## 🎓 Conhecimento adquirido nesses anos:
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,tailwind)](https://skillicons.dev)<br><br>
+## Contatos
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)<br><br>
 
 <p align="center">
   <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
