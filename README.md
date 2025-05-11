@@ -6,7 +6,7 @@
 
 
 ## 🎓 Conhecimento adquirido nesses anos:
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,tailwind)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,tailwind)](https://skillicons.dev)<br><br>
 
 ## 📫 Contatos:
 <p>
