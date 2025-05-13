@@ -12,6 +12,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="LinkedIn" />
   </a>
 </p>
+
 ## 🎓 Conhecimento adquirido nesses anos:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react)](https://skillicons.dev)<br><br>
 
