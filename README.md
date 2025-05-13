@@ -5,8 +5,6 @@
 </p><br><br>
 
 
-## 🎓 Conhecimento adquirido nesses anos:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind)](https://skillicons.dev)<br><br>
 
 ## 📫 Contatos:
 <p>
@@ -15,6 +13,9 @@
   </a>
 </p>
 <br></br>
+
+## 🎓 Conhecimento adquirido nesses anos:
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react)](https://skillicons.dev)<br><br>
 
 
 <div align="center">
