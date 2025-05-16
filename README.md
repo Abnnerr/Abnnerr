@@ -5,7 +5,7 @@
 </p><br><br>
 
 
-## 🎓 Tecnologias e Ferramentas
+# 🎓 Tecnologias e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react)](https://skillicons.dev)<br><br>
 
 ## 📊 GitHub Stats
