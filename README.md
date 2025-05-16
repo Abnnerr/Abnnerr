@@ -5,7 +5,7 @@
 </p><br><br>
 
 
-# 🎓 Tecnologias e Ferramentas
+## 🎓 Tecnologias e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react)](https://skillicons.dev)<br><br>
 
 ## 📊 GitHub Stats
@@ -17,6 +17,6 @@
 
 ## 📫 Contato
 
-- Email: [abnner@example.com](mailto:abnner@example.com)
-- LinkedIn: [linkedin.com/in/abnner](https://www.linkedin.com/in/abnner)
+- Email: [abnner@example.com](jonnas.ab.00@gmail.com)
+- LinkedIn: [linkedin.com/in/abnner](https://www.linkedin.com/in/Abner-vieira)
 
