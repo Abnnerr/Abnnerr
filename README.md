@@ -21,9 +21,9 @@
 
 ## 📫 Contato
 
-<h6>
+<h1>
   - Email: [jonnas.ab.00@gmail.com](jonnas.ab.00@gmail.com)
   - LinkedIn: [linkedin.com/in/Abnnerr](https://www.linkedin.com/in/abner-vieira-b34710365/)
-</h6>
+</h1>
 
 
