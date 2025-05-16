@@ -18,5 +18,5 @@
 ## 📫 Contato
 
 - Email: [abnner@example.com](jonnas.ab.00@gmail.com)
-- LinkedIn: [linkedin.com/in/abnner](https://www.linkedin.com/in/Abner-vieira)
+- LinkedIn: [linkedin.com/in/abnner](https://www.linkedin.com/in/abner-vieira)
 
