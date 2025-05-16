@@ -16,7 +16,7 @@
 ## 🎓 Tecnologias e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react)](https://skillicons.dev)<br><br>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnnerr&show_icons=true&theme=tokyonight"/>
@@ -28,4 +28,3 @@
 - Email: [abnner@example.com](mailto:abnner@example.com)
 - LinkedIn: [linkedin.com/in/abnner](https://www.linkedin.com/in/abnner)
 
----
