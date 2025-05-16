@@ -1,5 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Jonas</h1>
-
+<p align="center">
+  <img src="https://github.com/Abnnerr/Abnnerr/blob/main/welcome.gif" width="400"/>
+</p>
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
