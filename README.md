@@ -26,6 +26,8 @@
 - LinkedIn: [linkedin.com/in/Abnnerr](https://www.linkedin.com/in/abner-vieira-b34710365/)
 
 ##
-![Visitantes](https://komarev.com/ghpvc/?username=Abnnerr&color=blue&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emmanuelbezerradev&style=for-the-badge&color=red" alt="profile views" />
+</p>
 
 
