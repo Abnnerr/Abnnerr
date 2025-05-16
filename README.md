@@ -19,12 +19,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnnerr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### 📫 Contato
-
+## 📫 Contato
 
 - Email: [jonnas.ab.00@gmail.com](jonnas.ab.00@gmail.com)
 - LinkedIn: [linkedin.com/in/Abnnerr](https://www.linkedin.com/in/abner-vieira-b34710365/)
-
+  <br>
 ##
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abnnerr&style=for-the-badge&color=red" alt="profile views" />
