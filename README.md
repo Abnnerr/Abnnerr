@@ -6,7 +6,7 @@
 
 
 ## 🎓 Tecnologias e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react,typescript)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react)](https://skillicons.dev)<br><br>
 
 ## 📊 GitHub Stats
 
@@ -17,6 +17,6 @@
 
 ## 📫 Contato
 
-- Email: [abnner@example.com](jonnas.ab.00@gmail.com)
+- Email: [jonnas.ab.00@gmail.com](jonnas.ab.00@gmail.com)
 - LinkedIn: [linkedin.com/in/Abnnerr](https://www.linkedin.com/in/abner-vieira-b34710365/)
 
