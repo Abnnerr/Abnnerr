@@ -25,6 +25,7 @@
 - Email: [jonnas.ab.00@gmail.com](jonnas.ab.00@gmail.com)
 - LinkedIn: [linkedin.com/in/Abnnerr](https://www.linkedin.com/in/abner-vieira-b34710365/)
 
-<p align="center">
-  <img src="https://github.com/Abnnerr/Abnnerr/blob/main/welcome.gif" width="400"/>
-</p>
+##
+![Visitantes](https://komarev.com/ghpvc/?username=Abnnerr&color=blue&style=flat)
+
+
