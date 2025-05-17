@@ -5,7 +5,6 @@
 </p>
 
 
-
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
