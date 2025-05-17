@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000000&center=true&vCenter=true&width=435&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es!;Coding+my+way+to+the+future...;Sempre+aprendendo+algo+novo!+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100000000&color=514AD4&vCenter=true&width=435&lines=+%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Jonas+)](https://git.io/typing-svg)
 
 ##
 
