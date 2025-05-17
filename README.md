@@ -5,8 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&repeat=false&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Jonas+)](https://git.io/typing-svg)
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&repeat=false&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Jonas+)](https://git.io/typing-svg)
-
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
