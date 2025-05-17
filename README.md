@@ -10,11 +10,14 @@
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
 
-## 🎓 Tecnologias e Ferramentas
+##
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=345&height=30&lines=%F0%9F%8E%93+Tecnologias+e+Ferramentas)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react)](https://skillicons.dev)<br><br>
 
-## 📊 GitHub Stats
+##
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=345&height=30&lines=%F0%9F%93%8A+GitHub+Stats)](https://git.io/typing-svg)
 
 <br>
 <div align="center">
@@ -23,17 +26,10 @@
 </div>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abnnerr/Abnnerr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abnnerr/Abnnerr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abnnerr/Abnnerr/output/pacman-contribution-graph.svg">
-</picture>
+##
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=345&height=30&lines=%F0%9F%93%AB+Contato)](https://git.io/typing-svg)
 
-###
-
-## 📫 Contato
 - 💼 LinkedIn: [linkedin.com/in/Abnnerr](https://www.linkedin.com/in/abner-vieira-b34710365/)
 - 📧 Email: [jonnas.ab.00@gmail.com](jonnas.ab.00@gmail.com)
   <br><br>
