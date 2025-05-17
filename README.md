@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou Jonas</h1>
 
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20%" />
 
 
 <p align="center">
