@@ -8,7 +8,17 @@
 ##
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
-</p><br><br>
+ 
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=345&height=30&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Sobre+Mim)](https://git.io/typing-svg)
+
+- 🎓 Estudando para me tornar um desenvolvedor cada vez mais completo
+- ⚛️ Focado em tecnologias como **HTML, CSS, JavaScript** e **React**
+- 🎯 Buscando oportunidades para **colaborar com projetos reais** e continuar evoluindo
+- ✨ Gosto de resolver problemas com código e criar interfaces que realmente funcionam
+- 🤝 Aberto a **conexões, parcerias e desafios**
+
+</p>
 
 ##
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=345&height=30&lines=%F0%9F%8E%93+Tecnologias+e+Ferramentas)](https://git.io/typing-svg)
