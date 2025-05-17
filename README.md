@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Jonas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5BEFFF&center=true&vCenter=true&width=435&lines=Oi%2C+sou+o+Abnner!;Desenvolvedor+Front-End.;Amo+tecnologia+e+design.;Seja+bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=22&pause=1000&color=33FFDD&center=true&vCenter=true&width=435&lines=print('Olá,+sou+o+Abnner!');Front-end+Developer+💻;Bem-vindo+ao+meu+GitHub+🚀" />
 </p>
 
 
