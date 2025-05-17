@@ -1,7 +1,5 @@
 <h1 align="center">👋 Olá, eu sou Jonas</h1>
 
-![Code](https://img.shields.io/badge/CODE-💻-blue?style=flat-square)
-![Coffee](https://img.shields.io/badge/Fuel-Coffee☕-orange?style=flat-square)
 
 
 <p align="center">
