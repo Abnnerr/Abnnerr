@@ -1,10 +1,11 @@
-<h1 align="center">  👋 Olá, eu sou Jonas  </h1>
+<br>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=&pause=1000&color=F7F7F7&repeat=false&width=360&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Jonas+)](https://git.io/typing-svg)
+  
+</div>
 
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&letterSpacing=&pause=1000&repeat=false&width=450&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Jonas+)](https://git.io/typing-svg)
-</p>
-
+##
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
