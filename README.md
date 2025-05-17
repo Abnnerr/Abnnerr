@@ -27,4 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=Abnnerr&style=for-the-badge&color=red" alt="profile views" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abnnerr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/demo/?pause=100000000&color=514AD4&lines=%F0%9F%8E%93+Tecnologias+e+Ferramentas" />
+</p>
