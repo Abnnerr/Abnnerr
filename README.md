@@ -6,7 +6,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100000000&color=514AD4&width=435&lines=%F0%9F%8E%93+Tecnologias+e+Ferramentas)](https://git.io/typing-svg)
-##  
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react)](https://skillicons.dev)<br><br>
 
 ## 📊 GitHub Stats
