@@ -17,6 +17,14 @@
 </div>
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abnnerr/Abnnerr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abnnerr/Abnnerr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abnnerr/Abnnerr/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## 📫 Contato
 - 💼 LinkedIn: [linkedin.com/in/Abnnerr](https://www.linkedin.com/in/abner-vieira-b34710365/)
 - 📧 Email: [jonnas.ab.00@gmail.com](jonnas.ab.00@gmail.com)
@@ -26,6 +34,3 @@
   <img src="https://komarev.com/ghpvc/?username=Abnnerr&style=for-the-badge&color=red" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=66FCF1&center=true&vCenter=true&width=435&lines=Olá,+sou+o+Abnner!;Desenvolvedor+Front-End+💻;Bem-vindo+ao+meu+GitHub!+🚀" />
-</p>
