@@ -28,5 +28,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=66FCF1&center=true&vCenter=true&width=435&lines=Olá,+sou+o+Abnner!;Desenvolvedor+Front-End+💻;Bem-vindo+ao+meu+GitHub!+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=66FCF1&center=true&vCenter=true&width=435&lines=Olá,+sou+o+Abnner!;Desenvolvedor+Front-End+;Bem-vindo+ao+meu+GitHub!+" />
 </p>
