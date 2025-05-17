@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100000000&color=514AD4&width=435&lines=+%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Jonas+)](https://git.io/typing-svg)
   
