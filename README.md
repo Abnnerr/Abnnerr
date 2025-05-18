@@ -23,7 +23,7 @@
 ##
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=345&height=30&lines=%F0%9F%8E%93+Tecnologias+e+Ferramentas)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react,vite,node)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react,vite,nodejs)](https://skillicons.dev)<br><br>
 
 ##
 
