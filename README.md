@@ -9,6 +9,8 @@
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Abnnerr-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=345&height=30&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Sobre+Mim)](https://git.io/typing-svg)
 
