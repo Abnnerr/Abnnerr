@@ -34,6 +34,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnnerr&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnnerr&layout=compact&langs_count=7&theme=tokyonight"/>
  <br>
+ 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Abnnerr&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <br>
