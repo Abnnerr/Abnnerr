@@ -41,6 +41,12 @@
 
 ##
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=400&height=30&lines=🛒+Projetos+em+Destaque)](https://debuff.com.br)
+
+- <a href="https://debuff.com.br" target="_blank">Debuff • Loja Gamer & Estúdio Indie de Jogos</a>
+
+##
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=345&height=30&lines=%F0%9F%93%AB+Contato)](https://git.io/typing-svg)
 
 - 💼 LinkedIn: [linkedin.com/in/Abnnerr](https://www.linkedin.com/in/abner-vieira-b34710365/)
