@@ -22,9 +22,11 @@
 
 ##
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=345&height=30&lines=%F0%9F%8E%93+Tecnologias+e+Ferramentas)](https://git.io/typing-svg)
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react,vite,mysql,nodejs,prisma,express)](https://skillicons.dev)<br><br>
-
+<div align="center">
+ 
+ [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,react,nodejs)](https://skillicons.dev)<br><br>
+ 
+</div>
 ##
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=345&height=30&lines=%F0%9F%93%8A+GitHub+Stats)](https://git.io/typing-svg)
@@ -34,8 +36,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnnerr&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnnerr&layout=compact&langs_count=7&theme=tokyonight"/>
  <br><br>
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=Abnnerr&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <br>
 
