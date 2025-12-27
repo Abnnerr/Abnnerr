@@ -33,18 +33,6 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=345&height=30&lines=%F0%9F%93%8A+GitHub+Stats)](https://git.io/typing-svg)
-
-<br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnnerr&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnnerr&layout=compact&langs_count=7&theme=tokyonight"/>
- <br><br>
-</div>
-<br>
-
-##
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=&pause=5000&color=F7F7F7&vCenter=true&width=400&height=30&lines=🛒+Projetos+em+Destaque)](https://debuff.com.br)
 
 - <a href="https://debuff.com.br" target="_blank">Debuff • Loja Gamer & Estúdio Indie de Jogos</a>
