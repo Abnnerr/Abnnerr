@@ -27,8 +27,12 @@
 
 <div align="center">
  
- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,tailwind,react,nodejs)](https://skillicons.dev)<br><br>
- 
+| Categoria | Conhecimento |
+| :--- | :--- |
+| **Linguagens** | ![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python) |
+| **Frameworks / Bibliotecas** | ![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,express,prisma) |
+| **Ferramentas / Outros** | ![My Skills](https://skillicons.dev/icons?i=git) | <br><br>
+
 </div>
 
 ##
