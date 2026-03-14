@@ -29,9 +29,9 @@
  
 | Categoria | Conhecimento |
 | :--- | :--- |
-| **Linguagens** | ![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python) |
-| **Frameworks / Bibliotecas** | ![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,express,prisma) |
-| **Ferramentas / Outros** | ![My Skills](https://skillicons.dev/icons?i=git) | <br><br>
+| **Linguagens** | <img src="https://skillicons.dev/icons?i=javascript,typescript,python" height="28">  |
+| **Frameworks / Bibliotecas** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,express,prisma" height="28"> |
+| **Ferramentas / Outros** | <img src="https://skillicons.dev/icons?i=git" height="28"> | <br><br>
 
 </div>
 
