@@ -30,7 +30,7 @@
 | Categoria | Conhecimento |
 | :--- | :--- |
 | **Linguagens** | <img src="https://skillicons.dev/icons?i=javascript,typescript,python" height="28">  |
-| **Frameworks / Bibliotecas** | <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,expo,nodejs,tailwind,express,prisma" height="28"> |
+| **Frameworks / Bibliotecas** | <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,tailwind,express,prisma" height="28"> |
 | **Ferramentas / Outros** | <img src="https://skillicons.dev/icons?i=git" height="28"> | <br><br>
 
 </div>
